@@ -1,6 +1,6 @@
 # Questão 02
 
-2 ? Crie uma função int verifica_par_impar( ), que leia o valor global e verifique se é par ou ímpar.
+2 - Crie uma função int verifica_par_impar( ), que leia o valor global e verifique se é par ou ímpar.
 Ao final, retorna o valor da verificação para a função main( ), para imprimir o resultado.
 
 ---

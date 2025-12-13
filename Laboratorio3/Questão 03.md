@@ -1,6 +1,6 @@
 # Questão 03
 
-3 ? Crie uma função int verifica_positivo_negativo( ), que leia o valor global e verifique ser é positivo (retorna 1) ou não (retorna 0). Ao final, retorna o valor da verificação para a função main( ),
+3 - Crie uma função int verifica_positivo_negativo( ), que leia o valor global e verifique ser é positivo (retorna 1) ou não (retorna 0). Ao final, retorna o valor da verificação para a função main( ),
 para imprimir o resultado.
 
 ---

@@ -1,6 +1,6 @@
 # Questão 04
 
-4 ? Crie uma struct para um Produto com os campos código (inteiro), nome (string) e preço (real).
+4 - Crie uma struct para um Produto com os campos código (inteiro), nome (string) e preço (real).
 Declare um vetor para 3 produtos e, utilizando um for, permita que o usuário cadastre as informações
 de todos eles. Ao final, exiba a lista completa de produtos.
 

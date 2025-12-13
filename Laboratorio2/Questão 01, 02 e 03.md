@@ -4,10 +4,10 @@
 seguida, declare um vetor de 5 alunos. Preencha os dados de forma automática para cada aluno e, por
 fim, imprima os dados de todos eles.
 
-2-  Utilizando a struct do exercício anterior, crie um programa que permita ao usuário cadastrar 3
+2 -  Utilizando a struct do exercício anterior, crie um programa que permita ao usuário cadastrar 3
 alunos. Após o cadastro, o programa deve calcular e exibir a média das notas da turma.
 
-3 ? Adapte o exercício 2 para que, depois de cadastrar os 3 alunos, o programa encontre e exiba o
+3 - Adapte o exercício 2 para que, depois de cadastrar os 3 alunos, o programa encontre e exiba o
 nome do aluno que obteve a maior nota.
 
 ---
